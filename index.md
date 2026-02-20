@@ -50,7 +50,8 @@ nav_order: 1
 ## Recommended reading path
 
 1. [**Preface**]({{ site.baseurl }}/book/00-preface/)
-2. [**AI Landscape**]({{ site.baseurl }}/book/01-ai-landscape/)
-3. [**AI Regulation & Penalties**]({{ site.baseurl }}/book/02-ai-regulation/)
-4. [**AI Strategy**]({{ site.baseurl }}/book/03-ai-strategy/)
-5. [**AI Governance**]({{ site.baseurl }}/book/04-ai-governance/)
+2. [**Acknowledgements**]({{ site.baseurl }}/book/01-acknowledgements/)
+3. [**AI Landscape**]({{ site.baseurl }}/book/01-ai-landscape/)
+4. [**AI Regulation & Penalties**]({{ site.baseurl }}/book/02-ai-regulation/)
+5. [**AI Strategy**]({{ site.baseurl }}/book/03-ai-strategy/)
+6. [**AI Governance**]({{ site.baseurl }}/book/04-ai-governance/)
