@@ -7,7 +7,7 @@ nav_order: 1
 <div style="display:flex; gap:28px; flex-wrap:wrap; align-items:flex-start; padding: 12px 0;">
 
   <div style="flex:1; min-width:280px;">
-    <h1 style="margin-top:0;">AI for Management Leaders</h1>
+    <h1 style="margin-top:0;">AI for Leaders</h1>
     <p style="font-size:1.08rem; margin-top:6px;">
       <strong>An open-source executive guide to AI strategy, regulation, governance, and risk</strong>
     </p>
