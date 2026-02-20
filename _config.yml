@@ -4,8 +4,8 @@ description: "An open-source executive guide to AI strategy, regulation, governa
 # IMPORTANT:
 # If your site URL is https://USER.github.io/REPO then set:
 # baseurl: "/REPO"
-baseurl: ""
-url: ""
+baseurl: "/AI-for-Leaders"
+url: "https://khukt.github.io"
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
