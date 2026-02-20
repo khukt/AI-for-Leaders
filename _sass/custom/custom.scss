@@ -1,0 +1,27 @@
+// Fix sidebar navigation title overflow
+.nav-list .nav-list-item .nav-list-link {
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+// Print / PDF styles
+@media print {
+  .site-header,
+  .side-bar,
+  .main-header,
+  .page-header,
+  #pdf-download-btn {
+    display: none !important;
+  }
+
+  .main-content-wrap {
+    margin: 0 !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  a[href]::after {
+    content: none !important;
+  }
+}
